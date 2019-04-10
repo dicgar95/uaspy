@@ -1,4 +1,5 @@
-class App():
+from core.baseapp import BaseApp
+class App(BaseApp):
     pass
 
 if __name__ == "__main__":

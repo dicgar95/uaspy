@@ -67,3 +67,9 @@ class BaseApp:
             pygame.display.flip()
 
         pygame.quit()
+
+
+
+class App(BaseApp):
+    def __init__(self):
+        BaseApp.__init__(self)
