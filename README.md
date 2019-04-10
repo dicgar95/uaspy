@@ -12,8 +12,15 @@
 
 ![github](https://github.com/dicgar95/uaspy/blob/master/img/setting%20interpreter.png)
 
-3. nstall requerment yg dibutuhkan
+3. Install requerment yg dibutuhkan
 
 ![github](https://github.com/dicgar95/uaspy/blob/master/img/pip-list.png)
 
+4. Membuat class utama
 
+![github](https://github.com/dicgar95/uaspy/blob/master/img/baseapp.png)
+![github](https://github.com/dicgar95/uaspy/blob/master/img/baseapp1.png)
+
+5. Screenshot setelah di running
+
+![github](https://github.com/dicgar95/uaspy/blob/master/img/tampilan.png)
